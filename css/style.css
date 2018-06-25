@@ -359,6 +359,7 @@ header.navbar-sticky {
 .section-projects .img-responsive{
   margin-bottom: 30px;
   border: 4px solid #888;
+  display: inherit;
 }
 
 .section-projects .img-responsive:hover{
